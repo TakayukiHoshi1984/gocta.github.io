@@ -1,0 +1,8 @@
+---
+layout: post
+title: "投稿テスト"
+date: 2013-05-13 16:52
+comments: true
+categories: 
+---
+投稿だお。
