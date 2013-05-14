@@ -1,51 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2013-05-14T08:46:49+09:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[GOcta Docs]]></title>
+  <link href="http://gocta.github.io/atom.xml" rel="self"/>
+  <link href="http://gocta.github.io/"/>
+  <updated>2013-05-14T13:59:51+09:00</updated>
+  <id>http://gocta.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[GClue,Inc.]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
   
   <entry>
-    <title type="html"><![CDATA[title]]></title>
-    <link href="http://yoursite.com/blog/2013/05/13/title/"/>
-    <updated>2013-05-13T18:14:00+09:00</updated>
-    <id>http://yoursite.com/blog/2013/05/13/title</id>
-    <content type="html"><![CDATA[<p>これ</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[投稿テスト]]></title>
-    <link href="http://yoursite.com/blog/2013/05/13/tou-gao-tesuto/"/>
-    <updated>2013-05-13T16:52:00+09:00</updated>
-    <id>http://yoursite.com/blog/2013/05/13/tou-gao-tesuto</id>
-    <content type="html"><![CDATA[<p>投稿だお。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Post]]></title>
-    <link href="http://yoursite.com/blog/2013/05/13/post/"/>
-    <updated>2013-05-13T00:00:00+09:00</updated>
-    <id>http://yoursite.com/blog/2013/05/13/post</id>
-    <content type="html"><![CDATA[<hr />
+    <title type="html"><![CDATA[GOctaはじめます]]></title>
+    <link href="http://gocta.github.io/blog/2013/05/14/goctahazimemasu/"/>
+    <updated>2013-05-14T12:05:00+09:00</updated>
+    <id>http://gocta.github.io/blog/2013/05/14/goctahazimemasu</id>
+    <content type="html"><![CDATA[<h1>テスト</h1>
 
-<p>layout: post
-title: &ldquo;post&rdquo;
-date: 2013-05-13 17:07
-comments: true</p>
+<p><a href="http://www.google.co.jp/nexus/">Galaxy Nexus</a></p>
 
-<h2>categories: </h2>
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>aaa
+</span><span class='line'>#include&lt;stdio.h&gt;
+</span><span class='line'>ahaaaaaa</span></code></pre></td></tr></table></div></figure>
 
-<p>とうこうだお。</p>
+
+<p><img src="http://zafiel.wingall.com/img/top6.jpg" alt="Galaxy Nexus写真" /></p>
+
+<ul>
+<li>test</li>
+<li>test2</li>
+<li>test3</li>
+</ul>
+
+
+<p><strong>強調</strong></p>
+
+<table>
+  <tr>
+    <td>表表表</td>
+    <td>表表表</td>
+  </tr>
+  <tr>
+    <td>表表表</td>
+    <td>表表表</td>
+  </tr>
+  <tr>
+    <td>表表表</td>
+    <td>表表表</td>
+  </tr>
+</table>
+
+
+
 ]]></content>
   </entry>
   
